@@ -1,7 +1,7 @@
 # Landing Page Project.
 
 ## Table of Contents.
-* [Instructions](#instructions)
+* [Introduction](#introduction)
 * [Architecture](#architecture)
 * [Usability](#usability)
 * [Prerequisites](#prerequisites)
